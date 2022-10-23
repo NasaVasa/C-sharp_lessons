@@ -1,0 +1,15 @@
+C:\Users\grach\RiderProjects\HSE_lessons\lesson_15\bin\Debug\net6.0\lesson_15.exe
+C:\Users\grach\RiderProjects\HSE_lessons\lesson_15\bin\Debug\net6.0\lesson_15.deps.json
+C:\Users\grach\RiderProjects\HSE_lessons\lesson_15\bin\Debug\net6.0\lesson_15.runtimeconfig.json
+C:\Users\grach\RiderProjects\HSE_lessons\lesson_15\bin\Debug\net6.0\lesson_15.dll
+C:\Users\grach\RiderProjects\HSE_lessons\lesson_15\bin\Debug\net6.0\lesson_15.pdb
+C:\Users\grach\RiderProjects\HSE_lessons\lesson_15\obj\Debug\net6.0\lesson_15.csproj.AssemblyReference.cache
+C:\Users\grach\RiderProjects\HSE_lessons\lesson_15\obj\Debug\net6.0\lesson_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grach\RiderProjects\HSE_lessons\lesson_15\obj\Debug\net6.0\lesson_15.AssemblyInfoInputs.cache
+C:\Users\grach\RiderProjects\HSE_lessons\lesson_15\obj\Debug\net6.0\lesson_15.AssemblyInfo.cs
+C:\Users\grach\RiderProjects\HSE_lessons\lesson_15\obj\Debug\net6.0\lesson_15.csproj.CoreCompileInputs.cache
+C:\Users\grach\RiderProjects\HSE_lessons\lesson_15\obj\Debug\net6.0\lesson_15.dll
+C:\Users\grach\RiderProjects\HSE_lessons\lesson_15\obj\Debug\net6.0\refint\lesson_15.dll
+C:\Users\grach\RiderProjects\HSE_lessons\lesson_15\obj\Debug\net6.0\lesson_15.pdb
+C:\Users\grach\RiderProjects\HSE_lessons\lesson_15\obj\Debug\net6.0\lesson_15.genruntimeconfig.cache
+C:\Users\grach\RiderProjects\HSE_lessons\lesson_15\obj\Debug\net6.0\ref\lesson_15.dll
